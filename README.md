@@ -4,15 +4,14 @@
 
 Some abstract ZSH console images in SVG and PNG format. I created the graphics with a vector program for practice. [MIT Licence](/LICENSE)
 
----
 - [ZSH Console Icons](#zsh-console-icons)
   - [Images](#images)
   - [Automatic Day Night Switch](#automatic-day-night-switch)
   - [Source File](#source-file)
 
----
-
 ## Images
+
+Available icons with SVG preview.
 
 <table>
 <tr>
@@ -242,7 +241,8 @@ The font is stored in the `package` folder under `zsh-console-artboard.afpackage
 [Preview Artboards](https://user-images.githubusercontent.com/29308797/166165423-faac0fd3-5778-4997-986f-08c738329c2c.png)<br>
 [Preview Slices](https://user-images.githubusercontent.com/29308797/166165420-12fbc64b-6bf1-43c1-b09d-836da15267ae.png)
 
-Each icon is assigned to a drawing area, for <b>automatic export</b> of all icons as SVG and PNG click `Export Persona -> Export Slices`.
+Each icon is assigned to a drawing area, for <b>automatic export</b> of all icons as SVG and PNG click:<br>
+`Export Persona -> Export Slices`.
 
 ---
 
