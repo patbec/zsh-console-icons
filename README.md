@@ -2,12 +2,12 @@
 
 # ZSH Console Icons
 
-Some abstract ZSH console images in SVG and PNG format. I created the graphics with a vector program for practice. [MIT Licence](/LICENSE)
+Created for practicing with a vector program and trying out media queries in SVG graphics.
 
-- [ZSH Console Icons](#zsh-console-icons)
-  - [Images](#images)
-  - [Automatic Day Night Switch](#automatic-day-night-switch)
-  - [Source File](#source-file)
+- [Images](#images)
+- [Automatic day-night 🌃 switch](#automatic-day-night--switch)
+- [Source File](#source-file)
+- [Licence](#source-file)
 
 ## Images
 
@@ -131,7 +131,7 @@ Available icons with SVG preview.
 </table>
 
 
-## Automatic Day Night Switch
+## Automatic day-night 🌃 switch
 
 This icon will automatically change colors based on the selected operating system theme.
 
@@ -151,14 +151,16 @@ This icon will automatically change colors based on the selected operating syste
 </tr>
 </table>
 
-This SVG is manually post-processed and cannot be found in the artboard.
+This SVG is manually edited and cannot be found in the artboard.
+
+To test the color switch, open <b>Chrome Developer Tools</b> and the <b>Rendering</b> tab. There you can change the current ```prefers-color-scheme``` manually.
 
 This icon supports the following media queries:
 
 <table>
 <tr>
 <th align="center">
-    CSS Media Query
+    CSS media query
 </th>
 <th align="center">
     Description
@@ -202,6 +204,7 @@ Dark operating system theme
 </td>
 <td>
 
+  
 
 High-contrast theme for people with low vision.
     
@@ -242,7 +245,11 @@ The font is stored in the `package` folder under `zsh-console-artboard.afpackage
 [Preview Slices](https://user-images.githubusercontent.com/29308797/166165420-12fbc64b-6bf1-43c1-b09d-836da15267ae.png)
 
 Each icon is assigned to a drawing area, for <b>automatic export</b> of all icons as SVG and PNG click:<br>
-`Export Persona -> Export Slices`.
+`Export Persona -> Export Slices`
+
+## Licence
+
+This project is licensed under the MIT Licence license - See the [LICENSE](/LICENSE) file for more information.
 
 ---
 
