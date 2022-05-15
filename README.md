@@ -141,7 +141,7 @@ This icon will automatically change colors based on the selected operating syste
 
 *Does not work in Safari.
 
-<img width="50%" src="zsh-console-auto.svg" alt="zsh console icon"/>
+<img height="360px" src="zsh-console-auto.svg" alt="zsh console icon"/>
 
 [Show different sizes of this icon](https://patbec.github.io/zsh-console-icons/) or test the color change with the developer tools.
 
@@ -231,7 +231,7 @@ The file [index.html](index.html) contains an example for the embedding of this 
 
 My console, recreated as a vector graphic. The font of the SVG is exported as a curve, use the [source file](#source-file) to edit the text.
 
-<img width="100%" src="zsh-console.svg" alt="zsh console">
+<img width="100%" height="500px" src="zsh-console.svg" alt="zsh console">
 
 ### Colors
 
