@@ -4,15 +4,14 @@
 
 A vector icon that displays a abstract console window. Created for practicing with a vector program and trying out media queries in SVG graphics.
 
-- [ZSH Console Icons](#zsh-console-icons)
-  - [Images](#images)
-  - [Automatic day-night 🌃 switch](#automatic-day-night--switch)
-  - [Colorful console](#colorful-console)
-    - [Colors](#colors)
-    - [Font](#font)
-    - [Themes](#themes)
-  - [Source File](#source-file)
-  - [License](#license)
+- [Images](#images)
+- [Automatic day-night 🌃 switch](#automatic-day-night--switch)
+- [Colorful console](#colorful-console)
+  - [Colors](#colors)
+  - [Font](#font)
+  - [Themes](#themes)
+- [Source File](#source-file)
+- [License](#license)
 
 ## Images
 
@@ -33,10 +32,10 @@ Available icons with SVG preview.
 </tr>
 <tr>
 <td>
-    <img width="100%" src="zsh-console-default.svg" alt="zsh console"/>
+    <img width="100%" height="300px" src="zsh-console-default.svg" alt="zsh console"/>
 </td>
 <td>
-    <img width="100%" src="zsh-console-classic.svg" alt="zsh console"/>
+    <img width="100%" height="300px" src="zsh-console-classic.svg" alt="zsh console"/>
 </td>
 </tr>
 <tr>
@@ -73,10 +72,10 @@ Available icons with SVG preview.
 </tr>
 <tr>
 <td>
-    <img width="100%" src="zsh-console-macos-light.svg" alt="zsh console"/>
+    <img width="100%" height="300px" src="zsh-console-macos-light.svg" alt="zsh console"/>
 </td>
 <td>
-    <img width="100%" src="zsh-console-macos-dark.svg" alt="zsh console"/>
+    <img width="100%" height="300px" src="zsh-console-macos-dark.svg" alt="zsh console"/>
 </td>
 </tr>
 <tr>
@@ -113,10 +112,10 @@ Available icons with SVG preview.
 </tr>
 <tr>
 <td>
-    <img width="100%" src="zsh-console-macos-forced-colors-light.svg" alt="zsh console"/>
+    <img width="100%" height="300px" src="zsh-console-macos-forced-colors-light.svg" alt="zsh console"/>
 </td>
 <td>
-    <img width="100%" src="zsh-console-macos-forced-colors-dark.svg" alt="zsh console"/>
+    <img width="100%" height="300px" src="zsh-console-macos-forced-colors-dark.svg" alt="zsh console"/>
 </td>
 </tr>
 <tr>
