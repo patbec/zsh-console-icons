@@ -237,7 +237,7 @@ My console, recreated as a vector graphic. The font of the SVG is exported as a 
 
 Used text ansi-colors in the terminal.
 
-```
+```yaml
 colors: {
     black:          '#000000',
     red:            '#C51E14',
@@ -262,14 +262,14 @@ colors: {
 
 Used foreground and background colors in the terminal.
 
-```
+```yaml
 foregroundColor: '#fff',
 backgroundColor: '#282B34',
 ```
 
 Used special colors in the terminal.
 
-```
+```yaml
 selectionColor: 'rgba(248,28,229,0.3)',
 cursorColor: '#929292',
 cursorAccentColor: '#000'
