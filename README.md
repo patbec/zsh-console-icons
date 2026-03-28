@@ -1,6 +1,6 @@
-<img align="right" width="30%" src="zsh-console-auto.svg" alt="zsh console"/>
-
 # ZSH Console Icons
+
+<img align="right" width="30%" src="zsh-console-auto.svg" alt="zsh console"/>
 
 A vector icon that displays a abstract console window. Created for practicing with a vector program and trying out media queries in SVG graphics.
 
@@ -10,6 +10,7 @@ A vector icon that displays a abstract console window. Created for practicing wi
   - [Colors](#colors)
   - [Font](#font)
   - [Themes](#themes)
+  - [Configuration](#configuration)
 - [Source File](#source-file)
 - [License](#license)
 
@@ -294,7 +295,15 @@ Theme for the default macos terminal:<br>
 
 > There is no profile export function in the Gnome terminal.
 
-The components used in this image are [exa](https://the.exa.website) as `ls` alternative and the [zsh shell](https://zsh.sourceforge.io) with the extensions [syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting), [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) and a custom `PROMT=` string. [Example installation with Ansible](https://github.com/patbec/ansible-role-zsh#sample-5).
+### Configuration
+
+The ZSH configuration used in the screenshot [can be found here](/packages/configuration/.zshrc).
+
+Create a file under `~/.zshrc` or extend `/etc/zshrc` to use it.
+
+> This configuration requires the Homebrew packages [eza](https://eza.rocks), [syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting), and [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions). Tested with macOS 26.
+> 
+> Here you can find a [example installation with Ansible](https://github.com/bec-galaxy/bec.shell/wiki/Complete).
 
 ## Source File
 
